@@ -1,0 +1,35 @@
+#EXTM3U 
+
+#EXTINF:0 tvg-id="ABC" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/04/AbcTvenvivoonline.AbcTvdesdeParaguay.jpg"
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTINF:0 tvg-id="SNT" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FSNT&psig=AOvVaw0DJBbMbe5bVcL_-nmphknc&ust=1642028003173000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCv_ZHlqvUCFQAAAAAdAAAAABAD" 
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQyMDI3NzY4LCJzZXNzaW9uIjoiMTkwLjExMi4xNjguNDIiLCJ3aGl0ZWxpc3QiOlsiMTkwLjExMi4xNjguNDIiXX0sInNpZ25hdHVyZSI6IjRkMDZhZmM3MmJhZDFhYTA5YTliNzdlMDBmZjhhNDA4NzlmMDAwMWMifQ==
+
+
+#EXTINF:0 tvg-id="RCC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPj3EU3TnpBJMqw17UJrCumVSQCtYiOu-IdmZXhzhETOXAwftKbwUExeKfGscmEmGMRHM&usqp=CAU"
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
+
+#EXTINF:0 tvg-id="GEN" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.television.com.py%2Fgen-en-vivo&psig=AOvVaw0Mp2szyleSUp7HckMAEFpf&ust=1642028371152000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjPhcPmqvUCFQAAAAAdAAAAABAD"
+https://tigocloudgen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?k=25fc12f7d1ec7bd20673eda5ee781dfa1808fd206dfa961945a9c1607cf17973&exp=1641941866
+
+#EXTINF:0 tvg-id="C9N" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ipparaguay.com.py%2Fcn9-en-vivo%2F&psig=AOvVaw3takzMnSYauokLRCuhcvrA&ust=1642028584324000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjD9qbnqvUCFQAAAAAdAAAAABAD"
+https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQyMDI4NTA0LCJzZXNzaW9uIjoiMTkwLjExMi4xNjguNDIiLCJ3aGl0ZWxpc3QiOlsiMTkwLjExMi4xNjguNDIiXX0sInNpZ25hdHVyZSI6IjAwZTlhNGZiZWZhYjM4MTlhMmNjYzRlZjFhN2I0MTYxMDgyY2YwZDcifQ==
+
+#EXTINF:0 tvg-id="NPY" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnpy.com.py%2Fen-vivo%2F&psig=AOvVaw3oZl05lolbETX9UYGXj1Z8&ust=1642028737037000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCnue_nqvUCFQAAAAAdAAAAABAD"
+https://tigocloud.desdeparaguay.net/npy/npy_py_baja/playlist.m3u8?k=63a81120f7829ac976eb4c73168686600b69ef8ebce69afffc4c51a0ab901322&exp=1641942259
+
+#EXTINF:0 tvg-id="rpc" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fparaguaype.com%2Ftelevision%2Frpc-canal-13%2F&psig=AOvVaw28-nQaks59AXSL-tYXrRz2&ust=1642028918560000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLj24dXoqvUCFQAAAAAdAAAAABAD"
+https://stream.rpc.com.py/live/trece.m3u8
+
+#EXTINF:0 tvg-id="Telefuturo" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdirectostv.teleame.com%2Ftelefuturoparaguayenvivo%2F&psig=AOvVaw0rXY51HmGBYkquqRAvmgpr&ust=1642029192971000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJj0nMrpqvUCFQAAAAAdAAAAABAD"
+https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k=b01f51b193516926d46b00e2ab7ff9e41ac41d09cf60f388f74ad0165e9aa157&exp=1641942729
+
+#EXTINF:0 tvg-id="La Tele" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ipparaguay.com.py%2Fla-tele-en-vivo%2F&psig=AOvVaw1X1cUjeP3LJStZuq1bL1th&ust=1642029383252000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiyhKTqqvUCFQAAAAAdAAAAABAD"
+https://tigocloud.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=94f9becd5c13e61a88c9e5c85f0ac8bf96486983d976c8af01435bdfa4584b76&exp=1641942916
+
+#EXTINF:0 tvg-id="ParaguayTV" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdirectostv.teleame.com%2Fparaguaytvenvivo%2F&psig=AOvVaw2mPBMg1YEzZUmLPEvqH_0Y&ust=1642029651623000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDwnaTrqvUCFQAAAAAdAAAAABAD"
+https://live-ak.vimeocdn.com/exp=1641946712~acl=%2F18b625b0-1b2d-4fe5-af75-24dea5963dbf%2F%2A~hmac=be1a3df916eba4871527655eb8aecefae5ea97a8877078d4d6d0003d1a302c04/18b625b0-1b2d-4fe5-af75-24dea5963dbf/chunklist_b728000.m3u8
+
+#EXTINF:0 tvg-id="UNICANAL" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdirectostv.teleame.com%2Funicanalenvivo%2F&psig=AOvVaw06R3tIBpQB3VwoHYyP_CRT&ust=1642029922207000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiC9dHsqvUCFQAAAAAdAAAAABAD"
+http://45.55.127.106/live/unicanal_mid.m3u8
